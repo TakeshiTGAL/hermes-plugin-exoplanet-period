@@ -1,0 +1,17 @@
+name: exoplanet-period
+version: 0.1.0
+manifest_version: 2
+requires_hermes: ">=0.21.4"
+description: >
+  Exoplanet Period looks up one confirmed exoplanet by name and returns the
+  orbital period in days, the discovery year, and the discovery facility.
+author: TakeshiTGAL
+license: MIT
+homepage: https://github.com/TakeshiTGAL/hermes-plugin-exoplanet-period
+tags: [exoplanet, orbital-period, discovery]
+python_dependencies: []
+platforms: []
+provides_tools:
+  - exoplanet_lookup
+provides_hooks: []
+provides_middleware: []

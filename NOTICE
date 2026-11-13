@@ -1,0 +1,9 @@
+Exoplanet Period reads two public catalogs.
+
+Orbital period, disposition, and the modified date come from the MAST exoplanet API at exo.mast.stsci.edu, operated by STScI.
+Discovery year and discovery facility come from the NASA Exoplanet Archive TAP at exoplanetarchive.ipac.caltech.edu, operated by Caltech/IPAC.
+Getting started for MAST is published at https://exo.mast.stsci.edu/docs/getting_started.html
+The archive home is https://exoplanetarchive.ipac.caltech.edu/
+
+The source code in this repository is MIT. See LICENSE.
+This plugin does not ship light-curve files or the lightkurve package.

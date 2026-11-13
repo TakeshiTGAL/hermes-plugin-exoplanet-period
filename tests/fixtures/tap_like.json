@@ -1,0 +1,22 @@
+[
+{"pl_name": "WASP-12 b",
+"pl_orbper": 1.09142220000,
+"disc_year": 2008,
+"disc_facility": "SuperWASP"},
+{"pl_name": "WASP-12 b",
+"pl_orbper": 1.09142300000,
+"disc_year": 2008,
+"disc_facility": "SuperWASP"},
+{"pl_name": "WASP-120 b",
+"pl_orbper": 3.61126860000,
+"disc_year": 2016,
+"disc_facility": "SuperWASP"},
+{"pl_name": "WASP-121 b",
+"pl_orbper": 1.27492504000,
+"disc_year": 2016,
+"disc_facility": "SuperWASP"},
+{"pl_name": "WASP-124 b",
+"pl_orbper": 3.37265000000,
+"disc_year": 2016,
+"disc_facility": "SuperWASP-South"}
+]
